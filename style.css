@@ -1,4 +1,15 @@
 @charset "UTF-8";
 /* CSS Document */
 
+@font-face {
+    font-family: 'MuseoSans700';
+    src: url('MuseoSansRounded-700.otf');
+}
+
+@font-face {
+    font-family: 'MuseoSans300';
+    src: url('MuseoSansRounded-300.otf');
+}
+h1 {font-family: 'MuseoSans700'; color: #2e008b;}
+h2 {font-family: 'MuseoSans300'; color: #333;}
 .profile_img {float: right;}
