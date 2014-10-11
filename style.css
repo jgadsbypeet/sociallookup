@@ -12,4 +12,4 @@
 }
 h1 {font-family: 'MuseoSans700'; color: #2e008b;}
 h2 {font-family: 'MuseoSans300'; color: #333;}
-.profile_img {float: right;}
+.profile_img {float: right; width: 250px; height: 250px;}
